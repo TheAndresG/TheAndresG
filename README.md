@@ -66,26 +66,26 @@ En Timberli se puede:
 -> Contribuir con un método de pago.
 
 -> Consultar tus dudas a un ChatBot.  
+  <div>
+
+<img src="https://github.com/mschaberger/mschaberger/raw/main/assets/img/landingPageT.png" height="300" width="" />  
   
 
-<img src="https://github.com/mschaberger/mschaberger/raw/main/assets/img/landingPageT.png" align="left" height="300" width="" />  
+<img src="https://github.com/mschaberger/mschaberger/raw/main/assets/img/landingProjects.png"  height="300" width="" />  
   
 
-<img src="https://github.com/mschaberger/mschaberger/raw/main/assets/img/landingProjects.png" align="left" height="300" width="" />  
+<img src="https://github.com/mschaberger/mschaberger/raw/main/assets/img/projectDetail.png"  height="300" width="" />  
   
 
-<img src="https://github.com/mschaberger/mschaberger/raw/main/assets/img/projectDetail.png" align="left" height="300" width="" />  
+<img src="https://github.com/mschaberger/mschaberger/raw/main/assets/img/landingCommunity.png"  height="300" width="" />  
   
 
-<img src="https://github.com/mschaberger/mschaberger/raw/main/assets/img/landingCommunity.png" align="left" height="300" width="" />  
+<img src="https://github.com/mschaberger/mschaberger/raw/main/assets/img/payment.png"  height="300" width="" />  
   
 
-<img src="https://github.com/mschaberger/mschaberger/raw/main/assets/img/payment.png" align="left" height="300" width="" />  
+<img src="https://github.com/mschaberger/mschaberger/raw/main/assets/img/Login.png"  height="300" width="" />  
+  </div>
   
-
-<img src="https://github.com/mschaberger/mschaberger/raw/main/assets/img/Login.png" align="left" height="300" width="" />  
-  
----
 Aquí esta el [Link al Repositorio](https://github.com/Proyecto-Timberli/proyecto-final)  o [Link al Deploy](https://proyecto-final-orcin-seven.vercel.app/)  
   
 
