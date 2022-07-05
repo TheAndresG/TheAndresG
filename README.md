@@ -66,7 +66,7 @@ En Timberli se puede:
 -> Contribuir con un método de pago.
 
 -> Consultar tus dudas a un ChatBot.  
-  <div>
+  <div align="center">
 
 <img src="https://github.com/mschaberger/mschaberger/raw/main/assets/img/landingPageT.png" height="" width="400" />  
   
