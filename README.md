@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Buenas! Aquí Andres~ Desarrollador full stack, amante del front y del back por igual. ¿Quieres saber sobre mí?</div>  
+### <div align="center">Buenas! Aquí Andres~ Desarrollador full stack, amante del front y del back por igual. Quieres saber sobre mí?</div>  
   
 
 -  👨‍🎓 Recientemente termine mis estudios en [Henry](https://www.soyhenry.com/).  
@@ -24,7 +24,7 @@
 <br/>  
 
 
-## Mis Skills
+## My Skill Set  
 
 
 ### Frontend-Icons  
@@ -52,6 +52,46 @@
 <br/>  
 
 
+## Proyectos recientes!  
+### **<div align="center">📍Timberli</div>**  
+  
+
+#### En la ultima instancia de Henry, se nos da la tarea de realizar un proyecto final grupal. Junto con mi grupo decidimos armar [Timberli](https://proyecto-final-orcin-seven.vercel.app/), una pagina dedicada a que los programadores tengan donde publicar sus nuevos proyectos de una forma mas visible y constante, y así puedan ser fácilmente visto por reclutadores.
+En Timberli se puede:
+
+->Registrarse o loguearse
+
+->Subir proyectos con imagenes y video.
+
+-> Contribuir con un método de pago.
+
+-> Consultar tus dudas a un ChatBot.  
+  
+
+<img src="https://github.com/mschaberger/mschaberger/raw/main/assets/img/landingPageT.png" align="left" height="300" width="" />  
+  
+
+<img src="https://github.com/mschaberger/mschaberger/raw/main/assets/img/landingProjects.png" align="left" height="300" width="" />  
+  
+
+<img src="https://github.com/mschaberger/mschaberger/raw/main/assets/img/projectDetail.png" align="left" height="300" width="" />  
+  
+
+<img src="https://github.com/mschaberger/mschaberger/raw/main/assets/img/landingCommunity.png" align="left" height="300" width="" />  
+  
+
+<img src="https://github.com/mschaberger/mschaberger/raw/main/assets/img/payment.png" align="left" height="300" width="" />  
+  
+
+<img src="https://github.com/mschaberger/mschaberger/raw/main/assets/img/Login.png" align="left" height="300" width="" />  
+  
+---
+Aquí esta el [Link al Repositorio](https://github.com/Proyecto-Timberli/proyecto-final)  o [Link al Deploy](https://proyecto-final-orcin-seven.vercel.app/)  
+  
+
+<br/>  
+
+
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/TheAndresG" target="_blank">
@@ -73,6 +113,3 @@
 </div>  
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
