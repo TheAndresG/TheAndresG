@@ -1,8 +1,4 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
-</div>  
   
-
 ### <div align="center">Buenas! Aquí Andres~ Desarrollador full stack, amante del front y del back por igual. Quieres saber sobre mí?</div>  
   
 
