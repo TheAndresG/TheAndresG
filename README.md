@@ -2,10 +2,10 @@
 ### <div align="center">Buenas! Aquí Andres~ Desarrollador full stack, amante del front y del back por igual. Quieres saber sobre mí?</div>  
   
 
--  👨‍🎓 Recientemente termine mis estudios en [Henry](https://www.soyhenry.com/).  
+-  👨‍🎓 Estudie [Henry](https://www.soyhenry.com/), pero gran parte de mi stack y conocimientos provienen del auto-aprendisaje.  
   
 
-- 🌱 Me gusta aprender cosas nuevas constantemente, ahora mismo estoy aprendiendo [ NextJs ] [ NestJs ] y [ TypeScript ].  
+- 🌱 Me gusta aprender cosas nuevas constantemente, ahora mismo estoy aprendiendo nuevas formas de mejorar mi desarrollo con Next 13.  
   
 
 - ❓ Además de la programación💻, soy aficionado a la aviónica✈️, a los videojuegos🎮 y a la edición multimedia📹.   
