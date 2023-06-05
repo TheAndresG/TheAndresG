@@ -14,7 +14,7 @@
 - ⚡ Fun fact: Soy muy espontaneo para todo, me gusta la autenticidad de las cosas espontaneas.  
   
 
-- ✉️ Si queres contactarme podes hacerlo al siguiente correo andresgomezguardamagna@gmail, o a mi [LinkedIn💼](https://www.linkedin.com/in/andres-gomez-guardamagna/).  
+- ✉️ Si queres contactarme podes hacerlo al siguiente correo andresgomezguardamagna@gmail.com, o a mi [LinkedIn💼](https://www.linkedin.com/in/andres-gomez-guardamagna/).  
   
 
 <br/>  
@@ -45,48 +45,19 @@
 ###### <div align="center">React- JavaScript- HTML- Photoshop- Premiere - MySQL - PostgreSQL - MongoDB - Redux - Express.js - NodeJs - Git</div>  
   
 
-<br/>  
+<br/>
 
-
-## Proyectos recientes!  
-### **<div align="center">📍Timberli</div>**  
-  
-
-#### En la ultima instancia de Henry, se nos da la tarea de realizar un proyecto final grupal. Junto con mi grupo decidimos armar [Timberli](https://proyecto-final-orcin-seven.vercel.app/), una pagina dedicada a que los programadores tengan donde publicar sus nuevos proyectos de una forma mas visible y constante, y así puedan ser fácilmente visto por reclutadores.
-En Timberli se puede:
-
-->Registrarse o loguearse
-
-->Subir proyectos con imagenes y video.
-
--> Contribuir con un método de pago.
-
--> Consultar tus dudas a un ChatBot.  
-  <div align="center">
-
-<img src="https://github.com/mschaberger/mschaberger/raw/main/assets/img/landingPageT.png" height="" width="400" />  
-  
-
-<img src="https://github.com/mschaberger/mschaberger/raw/main/assets/img/landingProjects.png"  height="" width="400" />  
-  
-
-<img src="https://github.com/mschaberger/mschaberger/raw/main/assets/img/projectDetail.png"  height="" width="400" />  
-  
-
-<img src="https://github.com/mschaberger/mschaberger/raw/main/assets/img/landingCommunity.png"  height="" width="400" />  
-  
-
-<img src="https://github.com/mschaberger/mschaberger/raw/main/assets/img/payment.png"  height="" width="400" />  
-  
-
-<img src="https://github.com/mschaberger/mschaberger/raw/main/assets/img/Login.png"  height="" width="400" />  
-  </div>
-  
+## Proyecto Final Henry~
+Una pagina para ayudar a desarrolladores a publicar y hacer visible sus proyectos~
 Aquí esta el [Link al Repositorio](https://github.com/Proyecto-Timberli/proyecto-final)  o [Link al Deploy](https://proyecto-final-orcin-seven.vercel.app/)  
-  
 
 <br/>  
 
+## Proyectos Actuales?
+ ° Actualmente estoy trabajando en un sistema de tickets y control de entregas-ventas para una productora fotografica!
+Cuenta con una base de datos relacionada, automatización para calcular los pagos a los empleados e impresión de comprobantes para los compradores.
+
+<br/>  
 
 ## Connect with me  
 <div align="center">
