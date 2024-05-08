@@ -1,20 +1,22 @@
   
-### <div align="center">Buenas! Aquí Andres~ Desarrollador full stack, amante del front y del back por igual. Quieres saber sobre mí?</div>  
+### <div align="center">👋 Hello! I'm Andrés, a full-stack developer passionate about both front-end and back-end development. Want to get to know me a little better?</div>  
+
+(I was making my contributions in another github account, but I'm going to use this one again now that I'm looking for a job, sorry for the lack of updates!)
   
 
--  👨‍🎓 Estudie [Henry](https://www.soyhenry.com/), pero gran parte de mi stack y conocimientos provienen del auto-aprendisaje.  
+-  🎓 My background includes studies in web development, but much of my skills and knowledge have been acquired through self-learning and continuous practice. 
   
 
-- 🌱 Me gusta aprender cosas nuevas constantemente, ahora mismo estoy aprendiendo nuevas formas de mejorar mi desarrollo con Next 13.  
+- 🌱 I'm always on the lookout to learn new technologies and techniques to enhance my development skills. Currently, I'm focused on exploring the latest features and enhancements in Cobol.  
   
 
-- ❓ Además de la programación💻, soy aficionado a la aviónica✈️, a los videojuegos🎮 y a la edición multimedia📹.   
+- ❓ Besides coding 💻, I have diverse interests ranging from avionics ✈️ to video games 🎮 and multimedia editing 📹.
   
 
-- ⚡ Fun fact: Soy muy espontaneo para todo, me gusta la autenticidad de las cosas espontaneas.  
+- ⚡ Fun fact: I consider myself a very spontaneous person; I enjoy the authenticity and freshness in all things.
   
 
-- ✉️ Si queres contactarme podes hacerlo al siguiente correo andresgomezguardamagna@gmail.com, o a mi [LinkedIn💼](https://www.linkedin.com/in/andres-gomez-guardamagna/).  
+- ✉️ Want to get in touch? You can reach me at andresgomezguardamagna@gmail.com or find me on [LinkedIn💼](https://www.linkedin.com/in/andres-gomez-guardamagna/).  
   
 
 <br/>  
@@ -42,22 +44,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" />  
 </div>  
 
-###### <div align="center">React- JavaScript- HTML- Photoshop- Premiere - MySQL - PostgreSQL - MongoDB - Redux - Express.js - NodeJs - Git</div>  
-  
-
-<br/>
-
-## Proyecto Final Henry~
-Una pagina para ayudar a desarrolladores a publicar y hacer visible sus proyectos~
-Aquí esta el [Link al Repositorio](https://github.com/Proyecto-Timberli/proyecto-final)  o [Link al Deploy](https://proyecto-final-orcin-seven.vercel.app/)  
-
-<br/>  
-
-## Proyectos Actuales?
- ° Actualmente estoy trabajando en un sistema de tickets y control de entregas-ventas para una productora fotografica!
-Cuenta con una base de datos relacionada, automatización para calcular los pagos a los empleados e impresión de comprobantes para los compradores.
-
-<br/>  
+###### <div align="center">React- NextJs13- JavaScript- HTML- Photoshop- Premiere - MySQL - PostgreSQL - MongoDB - Redux - Express.js - NodeJs - Git</div>   
 
 ## Connect with me  
 <div align="center">
@@ -71,7 +58,6 @@ Cuenta con una base de datos relacionada, automatización para calcular los pago
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
 
 <br/>  
 
